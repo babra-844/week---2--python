@@ -1,16 +1,3 @@
-pcrie = input("Enter the price of one item: ")
-quantity = input("Enter the quantity you want: ")
-
-
-
-price = float(input("Enter the price of one item: "))
-quantity = int(input("Enter the quantity you want: "))
-
-
-
- total=price * quantity
-
- 
 
 price = float( input("Enter the price of one item:"))
 quantity = int(input("Enter the price of one item:"))
